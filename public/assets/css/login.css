@@ -1,0 +1,8 @@
+#login {
+    background-color: blueviolet;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    color: #fffbfc;
+    height: 100dvh;
+}
